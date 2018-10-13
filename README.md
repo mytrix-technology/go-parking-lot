@@ -26,7 +26,3 @@ Project ini hanya berjalan pada mesin Linux dan menggunakan golang v1.8 dalam pe
 Step 1 - Buka Terminal <br />
 Step 2 - Menuju ke direktori project tersimpan <br />
 Step 3 - Jalankan go run main.go dan enter masukkan <br />
-
-### TODO
-- [x] Development
-- [ ] Write unit tests
